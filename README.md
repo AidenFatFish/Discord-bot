@@ -41,5 +41,5 @@ Go to [uptimerobot.com](https://uptimerobot.com/) and create an accout if you do
 
 Your bot should now be good to go, with near 100% uptime.
 
-
+[![Run on Repl.it](https://repl.it/badge/github/AidenFatFish/Discord-bot)](https://repl.it/github/AidenFatFish/Discord-bot)
 
